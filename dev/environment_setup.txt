@@ -1,0 +1,8 @@
+cd ~/Portfolio/quickstart/python;
+source venv/bin/activate;
+./start.sh
+
+cd ~/Portfolio/quickstart/python;
+source venv/bin/activate;
+cd ~/Portfolio/quickstart/frontend;
+npm start
